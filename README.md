@@ -103,6 +103,18 @@ I have developed a variety of student and personal projects, leveraging tools su
 - **Responsibilities:** Field studies in sanitary works, administrative tasks.
 - **Skills:** AutoCAD, Microsoft Excel.
 
+## <p style="color:#556B2F;">Personal Interests and Hobbies</p>
+
+I'm someone who enjoys the simple things in life. I love spending time with family and friends, having barbecues, playing the guitar, and sharing stories.
+
+I have many hobbies that I enjoy:
+- **Cooking:** I like to experiment with different recipes and give them my own twist.
+- **Drawing:** I draw when inspiration strikes (jaja). I create realistic portraits mainly with a regular black pencil and a white drawing sheet, although I've also painted on wood.
+- **Free Time:** I enjoy my leisure time listening to music, especially folk music from my hometown (Santiago del Estero, Argentina), and watching series or movies.
+- **Sports:** I really enjoy playing paddle tennis (although I haven't been playing regularly lately jaja), but I love a good match with friends and the post-match gathering where we continue chatting.
+
+
+
 ## <p style="color:#556B2F;"> Contact Information ☎️</p>
 
 - **LinkedIn**: [Maximiliano Fenoglio](https://www.linkedin.com/in/maximilianofenoglio/)
