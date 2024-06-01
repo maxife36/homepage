@@ -24,3 +24,11 @@ Thanks to my brother who is a backend developer, he introduced me to the IT worl
 I have a strong passion for automating processes and solving complex problems. My focus is on developing solutions that are efficient, scalable, and robust, ensuring long-term effectiveness and adaptability.
 
 Although I have more aptitude for backend development, once I started studying and practicing frontend development, I developed a special taste for visualizing what I develop and the infinite possibilities to improve the user experience (UX).
+
+## <p style="color:#556B2F;"> Contact Information ☎️</p>
+
+- **LinkedIn**: [Maximiliano Fenoglio](https://www.linkedin.com/in/maximilianofenoglio/)
+- **Facebook**: [Maximiliano Fenoglio](https://www.facebook.com/maxi.feno/)
+- **Instagram**: [@maxifenoglio](https://www.instagram.com/maxifenoglio/)
+- **Email**: [maxife36@gmail.com](mailto:maxife36@gmail.com)
+- **Phone**: +543855991428
