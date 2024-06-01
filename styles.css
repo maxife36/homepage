@@ -92,7 +92,7 @@ body {
 .contact-info__block {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .contact-info__block--center {
@@ -128,8 +128,8 @@ body {
 
 .contact-info__avatar {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
     border: 3px solid;
     border-color: var(--text-decoration-color);
@@ -163,10 +163,29 @@ body {
     text-align: justify;
 }
 
+.skills {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
 .skills__header {
     color: var(--secondary-text-color);
     text-align: center;
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.skills_options {
+    width: 50%;
+    padding: 0px 25px;
+}
+
+.skills_title {
+    color: var(--secondary-text-color);
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 .skills__text {
